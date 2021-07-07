@@ -1,0 +1,1 @@
+SELECT * FROM Students WHERE * LIKE ('a%' OR 'c%' OR 's%');
